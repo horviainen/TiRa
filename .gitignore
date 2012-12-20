@@ -5,3 +5,5 @@
 *.war
 *.ear
 /ReittihakuA/nbproject/private/
+/ReittihakuA/build/
+/ReittihakuA/dist/
